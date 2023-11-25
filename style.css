@@ -213,5 +213,8 @@ header {
     .map-container {
         flex-wrap: wrap;
     }
+    .image{
+        height: 30px;
+    }
 
 }
